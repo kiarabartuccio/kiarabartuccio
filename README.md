@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kiarabartuccio/kiarabartuccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kiara Bartuccio 👋
 
-Here are some ideas to get you started:
+### Computer Technology Student | Aspiring Software & Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiarabartuccio)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiarabartuccio)
+
+</div>
+
+## About Me
+
+I'm a Computer Technology student at **Vanier College**, completing my DEC in **May 2027**. I enjoy turning ideas into practical applications through software development, web technologies, databases, networking, and Linux.
+
+I'm currently seeking a **software or web development internship** where I can contribute, learn from an experienced team, and continue developing my technical skills.
+
+- Based in Montreal, Quebec
+- Fluent in English and French
+- Interested in software development, web development, and practical technology projects
+- Quick learner with strong problem-solving, communication, and teamwork skills
+
+## Technical Skills
+
+**Programming:** Java, Python, PHP, C#, JavaScript, Dart, SQL, Bash  
+**Web:** HTML5, CSS3, JavaScript, PHP, responsive design  
+**Mobile & Game Development:** Flutter, Firebase, Flame, Unity, Greenfoot  
+**Databases:** MySQL, SQLite, Microsoft Access  
+**Systems & Networking:** Linux, CentOS, Windows, Cisco Packet Tracer  
+**Tools:** Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, NetBeans, Android Studio
+
+## Featured Projects
+
+### 🌱 [Garden Clicker](https://github.com/OliverDAvino/AppDev2FinalProject)
+
+A 2D pixel-art incremental game built with **Flutter, Flame, and Firebase**. It includes authentication, persistent save data, upgrades, achievements, notifications, settings, and an online scoreboard.
+
+### 🐾 [PetConnect](https://github.com/fatherxcracker/eCommerceProject)
+
+A centralized pet-adoption web platform. I worked on the user-facing front end, including pet browsing and details, search and filtering, user accounts, adoption requests and history, and AI chat support.
+
+### 🐧 [Unix System Administration Toolkit](https://github.com/Enesbkh/Unix-Project)
+
+A Bash-based administration project featuring system monitoring, process control, backup management, network configuration, Wi-Fi tools, and user management.
+
+### 📚 Library Management System
+
+A Java desktop application built with **Swing and object-oriented programming**. It supports printed books and eBooks, adding and removing books, searching by title or author, CSV storage, serialization, and a multilingual interface.
+
+### 🛒 E-Commerce Storefront
+
+A responsive storefront built with **HTML, CSS, and JavaScript**. It includes product browsing, search, user registration and login, a persistent shopping cart, checkout, profiles, reviews, and category data loaded from JSON and XML.
+
+### 🌐 Network Design & Simulation
+
+A Cisco Packet Tracer project demonstrating network topology design, device configuration, IP addressing, routing, and connectivity testing.
+
+### ⚔️ Greenfoot Combat Game
+
+A Java game prototype featuring player movement, enemies, equipment, collision logic, and an animated swinging weapon system built with Greenfoot.
+
+### ☄️ Meteor Database Application
+
+A Java Swing and Maven application with database-backed screens for adding, viewing, and updating meteor records.
+
+## What I'm Working On
+
+- Improving my Java, Python, C#, and JavaScript skills
+- Building full-stack web and mobile applications
+- Learning software design patterns and network programming
+- Preparing production-quality projects with clear documentation
+
+## Let's Connect
+
+I'm open to **software development and web development internship opportunities**.
+
+- [LinkedIn](https://www.linkedin.com/in/kiarabartuccio)
+- [GitHub](https://github.com/kiarabartuccio)
+
+---
+
+<div align="center">
+<i>Thank you for visiting my profile!</i>
+</div>
