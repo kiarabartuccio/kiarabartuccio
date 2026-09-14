@@ -39,7 +39,7 @@ A 2D pixel-art incremental game built with **Flutter, Flame, and Firebase**. It 
 
 A centralized pet-adoption web platform. I worked on the user-facing front end, including pet browsing and details, search and filtering, user accounts, adoption requests and history, and AI chat support.
 
-### 🐧 [Unix System Administration Toolkit](https://github.com/Enesbkh/Unix-Project)
+### 🐧 [Unix System Administration Toolkit](https://github.com/kiarabartuccio/unix-system-administration-toolkit)
 
 A Bash-based administration project featuring system monitoring, process control, backup management, network configuration, Wi-Fi tools, and user management.
 
