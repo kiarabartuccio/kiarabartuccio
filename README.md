@@ -31,11 +31,11 @@ I'm currently seeking an internship like software or web development internship 
 
 ## Featured Projects
 
-### 🌱 [Garden Clicker](https://github.com/OliverDAvino/AppDev2FinalProject)
+### 🌱 [Garden Clicker](https://github.com/kiarabartuccio/AppDev2FinalProject)
 
 A 2D pixel-art incremental game built with **Flutter, Flame, and Firebase**. It includes authentication, persistent save data, upgrades, achievements, notifications, settings, and an online scoreboard.
 
-### 🐾 [PetConnect](https://github.com/fatherxcracker/eCommerceProject)
+### 🐾 [PetConnect](https://github.com/kiarabartuccio/eCommerceProject)
 
 A centralized pet-adoption web platform. I worked on the user-facing front end, including pet browsing and details, search and filtering, user accounts, adoption requests and history, and AI chat support.
 
