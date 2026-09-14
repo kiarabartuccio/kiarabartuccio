@@ -13,7 +13,7 @@
 
 I'm a Computer Technology student at **Vanier College**, completing my DEC in **May 2027**. I enjoy turning ideas into practical applications.
 
-I'm currently seeking a **software or web development internship** where I can contribute, learn from an experienced team, and continue developing my technical skills.
+I'm currently seeking an internship like software or web development internship where I can contribute, learn from an experienced team, and continue developing my technical skills.
 
 - Based in Laval, Quebec
 - Fluent in English and French
