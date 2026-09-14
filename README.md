@@ -43,23 +43,23 @@ A centralized pet-adoption web platform. I worked on the user-facing front end, 
 
 A Bash-based administration project featuring system monitoring, process control, backup management, network configuration, Wi-Fi tools, and user management.
 
-### 📚 Library Management System
+### 📚 [Library Management System](https://github.com/kiarabartuccio/java-library-management-system)
 
 A Java desktop application built with **Swing and object-oriented programming**. It supports printed books and eBooks, adding and removing books, searching by title or author, CSV storage, serialization, and a multilingual interface.
 
-### 🛒 E-Commerce Storefront
+### 🛒 [E-Commerce Storefront](https://github.com/kiarabartuccio/ecommerce-storefront)
 
 A responsive storefront built with **HTML, CSS, and JavaScript**. It includes product browsing, search, user registration and login, a persistent shopping cart, checkout, profiles, reviews, and category data loaded from JSON and XML.
 
-### 🌐 Network Design & Simulation
+### 🌐 [Network Design & Simulation](https://github.com/kiarabartuccio/packet-tracer-network-design)
 
 A Cisco Packet Tracer project demonstrating network topology design, device configuration, IP addressing, routing, and connectivity testing.
 
-### ⚔️ Greenfoot Combat Game
+### ⚔️ [Greenfoot Combat Game](https://github.com/kiarabartuccio/greenfoot-combat-game)
 
 A Java game prototype featuring player movement, enemies, equipment, collision logic, and an animated swinging weapon system built with Greenfoot.
 
-### ☄️ Meteor Database Application
+### ☄️ [Meteor Database Application](https://github.com/kiarabartuccio/meteor-database-application)
 
 A Java Swing and Maven application with database-backed screens for adding, viewing, and updating meteor records.
 
