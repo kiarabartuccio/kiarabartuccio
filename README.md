@@ -69,8 +69,8 @@ A deployed Café Fantini web project hosted with Firebase. Visit the link above 
 
 **Demo login**
 
-- Username: `admin`
-- Password: `password123`
+- Username: `adamo.a81@gmail.com`
+- Password: `Buongionro`
 
 ## What I'm Working On
 
