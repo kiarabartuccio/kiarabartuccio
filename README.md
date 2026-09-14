@@ -33,21 +33,7 @@ I'm currently seeking an internship like software or web development internship 
 
 ### 🌱 [Garden Clicker](https://github.com/kiarabartuccio/AppDev2FinalProject)
 
-A relaxing 2D pixel-art incremental game built with **Flutter, Flame, and Firebase**. Players tap to collect flowers, purchase click-power and passive-income upgrades, unlock achievements, rebirth for permanent bonuses, securely save progress with Firebase, and compete on an online leaderboard.
-
-<p>
-  <a href="https://github.com/kiarabartuccio/AppDev2FinalProject">
-    <img src="https://raw.githubusercontent.com/kiarabartuccio/AppDev2FinalProject/main/docs/screenshots/main-menu.png" width="170" alt="Garden Clicker main menu">
-  </a>
-  <a href="https://github.com/kiarabartuccio/AppDev2FinalProject">
-    <img src="https://raw.githubusercontent.com/kiarabartuccio/AppDev2FinalProject/main/docs/screenshots/gameplay.png" width="170" alt="Garden Clicker gameplay">
-  </a>
-  <a href="https://github.com/kiarabartuccio/AppDev2FinalProject">
-    <img src="https://raw.githubusercontent.com/kiarabartuccio/AppDev2FinalProject/main/docs/screenshots/rebirth-shop.png" width="170" alt="Garden Clicker rebirth shop">
-  </a>
-</p>
-
-📄 **[View the complete project, screenshots, features, and setup instructions](https://github.com/kiarabartuccio/AppDev2FinalProject#readme)**
+A 2D pixel-art incremental game built with **Flutter, Flame, and Firebase**. It includes authentication, persistent save data, upgrades, achievements, notifications, settings, and an online scoreboard.
 
 ### 🐾 [PetConnect](https://github.com/kiarabartuccio/eCommerceProject)
 
