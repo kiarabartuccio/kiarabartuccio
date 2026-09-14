@@ -2,7 +2,7 @@
 
 # Hi, I'm Kiara Bartuccio 👋
 
-### Computer Technology Student | Aspiring Software & Web Developer
+### Computer Technology Student 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiarabartuccio)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiarabartuccio)
@@ -11,13 +11,13 @@
 
 ## About Me
 
-I'm a Computer Technology student at **Vanier College**, completing my DEC in **May 2027**. I enjoy turning ideas into practical applications through software development, web technologies, databases, networking, and Linux.
+I'm a Computer Technology student at **Vanier College**, completing my DEC in **May 2027**. I enjoy turning ideas into practical applications.
 
 I'm currently seeking a **software or web development internship** where I can contribute, learn from an experienced team, and continue developing my technical skills.
 
-- Based in Montreal, Quebec
+- Based in Laval, Quebec
 - Fluent in English and French
-- Interested in software development, web development, and practical technology projects
+- Interested in software development, web development, practical technology projects, and more
 - Quick learner with strong problem-solving, communication, and teamwork skills
 
 ## Technical Skills
