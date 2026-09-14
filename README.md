@@ -55,7 +55,6 @@ A C# Windows Forms café-ordering application with visual product browsing, cust
 
 A responsive storefront built with **HTML, CSS, and JavaScript**. It includes product browsing, search, user registration and login, a persistent shopping cart, checkout, profiles, reviews, and category data loaded from JSON and XML.
 
-[![E-Commerce Storefront home page](images/ecommerce-storefront.jpg)](https://github.com/kiarabartuccio/ecommerce-storefront)
 
 ### 🌐 [Network Design & Simulation](https://github.com/kiarabartuccio/packet-tracer-network-design)
 
@@ -73,7 +72,6 @@ A Java Swing and Maven application with database-backed screens for adding, view
 
 A deployed Café Fantini web project hosted with Firebase. Visit the link above to explore the live application.
 
-[![Café Fantini login screen](images/cafe-fantini-login.jpg)](https://cafefantinidb.web.app/)
 
 📄 **[View Project README](https://github.com/kiarabartuccio/Cafe-Fantini#readme)**
 
