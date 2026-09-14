@@ -47,6 +47,10 @@ A Bash-based administration project featuring system monitoring, process control
 
 A Java desktop application built with **Swing and object-oriented programming**. It supports printed books and eBooks, adding and removing books, searching by title or author, CSV storage, serialization, and a multilingual interface.
 
+### ☕ [Comfy Cozy Cafe](https://github.com/kiarabartuccio/comfy-cozy-cafe)
+
+A C# Windows Forms café-ordering application with visual product browsing, customizable drinks and pastries, quantity selection, shopping-cart management, and calculated totals.
+
 ### 🛒 [E-Commerce Storefront](https://github.com/kiarabartuccio/ecommerce-storefront)
 
 A responsive storefront built with **HTML, CSS, and JavaScript**. It includes product browsing, search, user registration and login, a persistent shopping cart, checkout, profiles, reviews, and category data loaded from JSON and XML.
