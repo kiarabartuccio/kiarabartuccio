@@ -71,6 +71,8 @@ A Java Swing and Maven application with database-backed screens for adding, view
 
 A deployed Café Fantini web project hosted with Firebase. Visit the link above to explore the live application.
 
+[![Café Fantini login screen](images/cafe-fantini-login.jpg)](https://cafefantinidb.web.app/)
+
 📄 **[View Project README](https://github.com/kiarabartuccio/Cafe-Fantini#readme)**
 
 **Demo login**
