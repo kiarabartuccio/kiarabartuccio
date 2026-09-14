@@ -67,6 +67,11 @@ A Java Swing and Maven application with database-backed screens for adding, view
 
 A deployed Café Fantini web project hosted with Firebase. Visit the link above to explore the live application.
 
+**Demo login**
+
+- Username: `admin`
+- Password: `password123`
+
 ## What I'm Working On
 
 - Improving my overall skills in the computer science industry
