@@ -65,14 +65,12 @@ A Java Swing and Maven application with database-backed screens for adding, view
 
 ## What I'm Working On
 
-- Improving my Java, Python, C#, and JavaScript skills
-- Building full-stack web and mobile applications
-- Learning software design patterns and network programming
+- Improving my overall skills in the computer science industry
 - Preparing production-quality projects with clear documentation
 
 ## Let's Connect
 
-I'm open to **software development and web development internship opportunities**.
+I'm open to **software development, web development internship opportunities, IOT, and more!**.
 
 - [LinkedIn](https://www.linkedin.com/in/kiarabartuccio)
 - [GitHub](https://github.com/kiarabartuccio)
