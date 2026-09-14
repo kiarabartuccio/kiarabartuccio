@@ -63,6 +63,10 @@ A Java game prototype featuring player movement, enemies, equipment, collision l
 
 A Java Swing and Maven application with database-backed screens for adding, viewing, and updating meteor records.
 
+### ☕ [Café Fantini – Live Web App](https://cafefantinidb.web.app/)
+
+A deployed Café Fantini web project hosted with Firebase. Visit the link above to explore the live application.
+
 ## What I'm Working On
 
 - Improving my overall skills in the computer science industry
