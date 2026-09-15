@@ -2,7 +2,7 @@
 
 # Hi, I'm Kiara Bartuccio 👋
 
-### Computer Technology Student 
+### Computer Science Technology Student 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiarabartuccio)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiarabartuccio)
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a Computer Technology student at **Vanier College**, completing my DEC in **May 2027**. I enjoy turning ideas into practical applications.
+I'm a Computer Science Technology student at **Vanier College**, completing my DEC in **May 2027**. I enjoy turning ideas into practical applications.
 
 I'm currently seeking an internship like software or web development internship where I can contribute, learn from an experienced team, and continue developing my technical skills.
 
